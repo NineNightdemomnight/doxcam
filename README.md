@@ -20,6 +20,10 @@ ls
 ```
 python doxcam.py
 ```
+## LINUX ✅ 
+
+# About 🤑
+**We greatly appreciate your feedback and suggestions. Please feel free to share any thoughts you may have; your input is invaluable to us!**
 
 
 
