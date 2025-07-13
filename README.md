@@ -1,2 +1,2 @@
 # Doxcam 🔥
-**Doxcam is port forwarding via Ngrok or LocalTunnel to collect the user's IP address and webcam image from their mobile device.**
+**Doxcam captures IP addresses and phone webcam snapshots via Ngrok or LocalTunnel port forwarding.**
